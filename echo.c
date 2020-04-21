@@ -1,6 +1,6 @@
 /* echo.c - echo user input */
-/* [AUTHOR GOES HERE] */
-/* Last updated: 3/23/18 */
+/* Eric Y Chang */
+/* Last updated: 4/21/20*/
 
 #include <stdio.h>
 #include <stdlib.h>
